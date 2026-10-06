@@ -1,3 +1,8 @@
+# Given a shuffled deck of cards of numbers,
+# what is the probability that the number on the drawn card
+# is the same as the card's number in order of the cards drawn.
+# I mean, the 16th card drawn turns out to be the number 16
+
 import random
 import matplotlib.pyplot as plt
 
