@@ -39,5 +39,3 @@ for count in same_birthday_k_count:
     cumulative_count.append(total)
 
 plot_probabilities(cumulative_count, trials)
-
-
